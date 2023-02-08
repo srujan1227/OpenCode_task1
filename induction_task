@@ -1,0 +1,49 @@
+Q1. 
+
+Git is a version control system used for tracking changes in computer files and coordinating work on those files among multiple people.
+
+GitHub is a web-based platform that provides hosting for software development version control using Git. It also offers collaboration features such as bug tracking, feature requests, task management, and wikis for every project. Simply put, GitHub is a hosting service for Git repositories, while Git is a version control system used by developers
+
+
+
+
+
+Q2.
+
+git clone: This command is used to clone a remote repository to your local machine.
+
+git add: This command is used to stage changes for the next commit.
+
+git commit: This command is used to create a new commit with the staged changes.
+
+git push: This command is used to upload local commits to a remote repository.
+
+git pull: This command is used to download and merge changes from a remote repository to the local branch.
+
+
+
+
+
+
+
+
+
+
+Q3.
+
+
+A pull request is a request to merge changes from a feature branch into the main branch (usually "master") of a Git repository. Here are the steps to make a pull request:
+
+Fork the repository you want to contribute to.
+
+Clone the forked repository to your local machine.
+
+Create a new branch for your changes, and make the desired changes.
+
+Push the changes to your forked repository.
+
+Go to the original repository's page on GitHub, and click on the "Compare & pull request" button.
+
+Fill in the pull request form, giving a descriptive title and detailed description of the changes you've made.
+
+Submit the pull request, and wait for the repository maintainers to review and merge your changes.
